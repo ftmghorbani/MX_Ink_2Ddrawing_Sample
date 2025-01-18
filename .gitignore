@@ -1,0 +1,21 @@
+Unity.gitignore
+# Unity-specific files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / JetBrains Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.unityproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
