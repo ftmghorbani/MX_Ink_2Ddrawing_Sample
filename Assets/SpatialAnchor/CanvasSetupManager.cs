@@ -79,7 +79,7 @@ public class CanvasSetupManager : MonoBehaviour
         _isCreatingAnchor = true;
 
         Vector3 position = _stylusHandler.CurrentState.inkingPose.position;
-        position += _stylusHandler.CurrentState.inkingPose.forward * 0.004f; // Offset the anchor slightly in front of the stylus
+        position += _stylusHandler.CurrentState.inkingPose.forward * 0.002f; // Offset the anchor slightly in front of the stylus
 
         Quaternion rotation = Quaternion.Euler(0, 0, 0);
 
