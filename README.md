@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Unity project allows users to create a 2D drawing canvas in a mixed reality (MR) environment using spatial anchors and interact with it using a stylus on the Oculus Quest. Users can:
+This Unity project allows users to create a 2D drawing canvas in a mixed reality (MR) environment using spatial anchors and interact with it using a stylus on the Meta Quest. Users can:
 
 - Place spatial anchors to define the corners of the drawing canvas.  
 - Automatically generate a canvas from the anchors.  
